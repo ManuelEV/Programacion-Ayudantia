@@ -28,6 +28,10 @@ public class Calculadora {
         return Math.pow(a, b);
     }
 
+    public double raizCuadrada(){
+        return Math.sqrt(a);
+    }
+
     public int getA() {
         return a;
     }
