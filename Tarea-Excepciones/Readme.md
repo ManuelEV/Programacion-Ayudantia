@@ -6,10 +6,10 @@ Esta tarea tiene como objetivo aplicar conceptos de manejo de excepciones y de p
 
 Cada estudiante tendrá que probar los métodos de la clase **Utilidad.java** por medio de JUnit, además de identificar las posibles excepciones (en caso de haberlas) de cada método.
 
-El entregable será un archivo PDF que contenga por cada método:
+El entregable será un archivo PDF que contenga **por cada método**:
 
 - Análisis de las posibles excepciones (y cómo se podría arreglar).
-- 
+- Evidencia (fotos) de al menos una prueba unitaria.
 
 La entrega será vía mensaje de **Slack** hasta el domingo 24 de mayo a las 23:59, las dudas serán por la misma vía.
 
