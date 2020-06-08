@@ -30,7 +30,7 @@ public class RuedaFortuna{
 
 ```
 
-El método inicializarRueda a partir de un número de casillas, asigna los puntajes de forma aleatoria a cada una de las casillas.
+El método inicializarRueda a partir de un número de casillas, asigna los puntajes de forma aleatoria a cada una de las casillas. El número de casillas puede ser desde un mínimo de 4 hasta un máximo de 100 casillas.
 
 El método lanzarRueda se encarga de elegir una casilla de la rueda al azar y devuelve el puntaje obtenido.
 
