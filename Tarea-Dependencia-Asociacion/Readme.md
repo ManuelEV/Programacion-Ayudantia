@@ -1,4 +1,4 @@
-# Tarea 3 - Relaciones entre clases: Dependencia, Asociación y Agregación
+# Tarea 3 - Relaciones entre clases: Dependencia y Asociación
 
 ## Descripción
 
