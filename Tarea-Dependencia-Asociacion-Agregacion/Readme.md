@@ -14,6 +14,6 @@
 
 ## Entrega
 
-Archivo PDF con las explicaciones y los diagramas UML de cada caso planteado vía Slack con plazo hasta el miércoles 29 de Julio.
+Archivo PDF con las explicaciones y los diagramas UML de cada caso planteado vía Slack con plazo hasta el miércoles 29 de Julio a las 23:00
 
 
